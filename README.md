@@ -8,4 +8,5 @@ pytide基于Flask框架实现 （源代码已加密，有兴趣学习可联系�
 6. 常用工具函数
 7. 很多实现，暂不公开
 
+以下为设计的系统架构(如图)：
 ![image](https://github.com/totide/pytide/blob/master/%E8%87%AA%E5%AE%9E%E6%96%BD%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
